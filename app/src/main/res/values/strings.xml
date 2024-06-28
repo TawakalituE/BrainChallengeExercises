@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Brain Challenge</string>
+    <string-array name="y_coordinates">
+        <item>100</item>
+        <item>50</item>
+        <item>100</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+</resources>
